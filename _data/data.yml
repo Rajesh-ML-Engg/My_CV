@@ -162,7 +162,8 @@ publications:
       - title: A syntax directed compiler for Algol 60
         link: "#"
         authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"    
+        conference: "Comm. ACM 4 (1961), 51–55"
+        
 awards:
     - role: GEM Award
       time: 01/2020
@@ -190,6 +191,7 @@ awards:
       company: QA InfoTech Pvt Ltd
       details: |
         Recognized for remarkable efforts and outstanding contribution to the project for finding the high priority defects in the testing phase.
+
 skills:
     title: Skills &amp; Proficiency
 
