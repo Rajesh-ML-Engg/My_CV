@@ -45,6 +45,12 @@
         {{ graduation.details | markdownify }}
       </div><!--//details-->
       {% endif %}
+	  
+	  {% if graduation.volunteer %}
+      <div class="Student Volunteer">
+        {{ graduation.volunteer | markdownify }}
+      </div><!--//volunteer-->
+      {% endif %}  
 
     </div><!--//item-->
     {% endfor %}
