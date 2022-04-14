@@ -61,10 +61,10 @@ career-profile:
 education:
     - degree: B.Tech in Information Technology
       university: Amity University, Noida, Uttar Pradesh, India
-      time: 05/2008 - 05/2012
+      time: May-2008 - May-2012
       details: |
         Programme specialization in Information Technology and obtained a CGPA of 7.59 with First Division.
-      Student Volunteer: 12/2011 |
+      Student Volunteer: Dec-2011 |
           - Being a member of organizing team worked for the successful delivery of "International IT Summit" conducted on the theme of Information Storage, Security & Compliance for Business Excellence.
 experiences:
     - role: Specialist Development
@@ -166,32 +166,32 @@ publications:
         
 awards:
     - role: GEM Award
-      time: 2020
+      time: Jan-2020
       company: SunLife Financials India
       details: |
         Awarded with the prestigious GEM award for outstanding contribution in the project in quarter Oct-Dec 2019.
         
     - role: Spot Award
-      time: 2018
+      time: Aug-2018
       company: Deloitte Consulting USI
       details: |
         Awarded for developing a successful proof-of-concept("PM BOT") using python with a specialization in ML & NLP,
         also delivered its live demonstration in the "IT Analytics Summit 2017".
         
     - role: Spot Award
-      time: 2017
+      time: Nov-2017
       company: Deloitte Consulting USI
       details: |
         Acknowledged for reducing the data hydration efforts by 50%, also decommissioned the legacy file processing system.
         
     - role: The Director's Award
-      time: 2016
+      time: Dec-2016
       company: Fidelity Research India Pvt Ltd
       details: |
         Awarded for developing the complicated ETL logics while working on a DWBI project and delivered the project with zero UAT defects.
         
     - role: Spot Award
-      time: 2013
+      time: Jan-2013
       company: QA InfoTech Pvt Ltd
       details: |
         Recognized for remarkable efforts and outstanding contribution to the project for finding the high priority defects in the testing phase.
