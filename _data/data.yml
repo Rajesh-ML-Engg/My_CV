@@ -16,7 +16,7 @@ sidebar:
     phone: +91-9873263473
     citizenship: Indian
     website: blog.webjeda.com #do not add http://
-    linkedin: https://www.linkedin.com/in/rajesh-ml-engg
+    linkedin: rajesh-ml-engg
     xing: 
     github: https://github.com/Rajesh-ML-Engg
     telegram: # add your nickname without '@' sign
@@ -190,4 +190,4 @@ skills:
         level: 60%
 
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+    The content of this page is maintained by <i class="fas fa-heart"></i> by <a href="https://github.com/Rajesh-ML-Engg/My_CV" target="_blank" rel="nofollow"> Rajesh Sharma & designed by Xiaoying Riley</a>
