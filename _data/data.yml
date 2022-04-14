@@ -3,8 +3,8 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: False # set to False if you want education in main section instead of in sidebar
 
     # Profile information
     name: Rajesh Sharma
@@ -15,7 +15,6 @@ sidebar:
     email: raj.shr2609@gmail.com
     phone: +91-9873263473
     citizenship: Indian
-    website: blog.webjeda.com #do not add http://
     linkedin: rajesh-ml-engg
     xing: 
     github: rajesh-ml-engg
@@ -26,8 +25,7 @@ sidebar:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    medium: https://rajesh-ml-engg.medium.com/
-    docker:
+    website: rajesh-ml-engg.medium.com # do not add http://
     kaggle:
     pdf: http://www.africau.edu/images/default/sample.pdf
 
@@ -174,23 +172,26 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: Python-3 Prgramming
+        level: 90%
 
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
+      - name: SQL
         level: 95%
 
-      - name: Ruby on Rails
+      - name: Popular ML pkgs (Tensorflow-v2, Keras, Sklearn & others)
         level: 85%
 
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: AWS Sagemaker & other services
+        level: 85%
+        
+      - name: PySpark
+        level: 85%
+
+      - name: MLOps (Kubeflow & Docker)
+        level: 70%
+
+      - name: Agile methodologies (JIRA, BitBucket & Confluence)
+        level: 75%
 
 footer: >
     The content of this page is maintained by <i class="fas fa-heart"></i> by <a href="https://github.com/Rajesh-ML-Engg/My_CV" target="_blank" rel="nofollow"> Rajesh Sharma</a> & designed by Xiaoying Riley.
