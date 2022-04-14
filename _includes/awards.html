@@ -10,18 +10,10 @@
   </h2>
 
   {% for award in awards %}
-  <div class="item">
-
-    <div class="meta">
-
-      <div class="upper-row">
-		<li><a href="{{ award.link }}">{{ award.role }}</a></li>
-        <div class="time">{{ award.time }}</div>
-      </div><!--//upper-row-->
-
-      <div class="company">{{ award.company }}</div>
-
-    </div><!--//meta-->
+	<div class="item">
+		<li>{{ award.role }}</li>
+		<div class="time">{{ award.time }}</div>
+		<div class="company">{{ award.company }}</div>
 
     {% if award.details %}
     <div class="details">
