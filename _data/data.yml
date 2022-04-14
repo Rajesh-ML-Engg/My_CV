@@ -170,22 +170,26 @@ awards:
       company: SunLife Financials India
       details: |
         Awarded with the prestigious GEM award for outstanding contribution in the project in quarter Oct-Dec 2019.
+        
     - role: Spot Award
       time: 08/2018
       company: Deloitte Consulting USI
       details: |
         Awarded for developing a successful proof-of-concept("PM BOT") using python with a specialization in ML & NLP,
         also delivered its live demonstration in the "IT Analytics Summit 2017".
+        
     - role: Spot Award
       time: 11/2017
       company: Deloitte Consulting USI
       details: |
         Acknowledged for reducing the data hydration efforts by 50%, also decommissioned the legacy file processing system.
+        
     - role: The Director's Award
       time: 12/2016
       company: Fidelity Research India Pvt Ltd
       details: |
         Awarded for developing the complicated ETL logics while working on a DWBI project and delivered the project with zero UAT defects.
+        
     - role: Spot Award
       time: 01/2013
       company: QA InfoTech Pvt Ltd
