@@ -64,8 +64,7 @@ education:
       time: May/2008 - May/2012
       details: |
         Programme specialization in Information Technology and obtained a CGPA of 7.59 with First Division.
-      volunteer: |
-        Dec-2011 :: Being a member of organizing team worked for the successful delivery of "International IT Summit" conducted on the theme of Information Storage, Security & Compliance for Business Excellence.
+            - Being a member of organizing team worked for the successful delivery of "International IT Summit" conducted on the theme of Information Storage, Security & Compliance for Business Excellence.
 experiences:
     - role: Specialist Development
       time: 2017 - 2019
@@ -141,29 +140,7 @@ projects:
       - title: Delta
         link: "#"
         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
-        
+    
 awards:
     - role: GEM Award
       time: Jan/2020
