@@ -27,7 +27,7 @@ sidebar:
     goodreads: # Number-Username, e.g. 123456-alandoe
     website: rajesh-ml-engg.medium.com # do not add http://
     kaggle:
-    pdf: http://www.africau.edu/images/default/sample.pdf
+    pdf:
 
     languages:
       - idiom: Hindi
@@ -61,11 +61,12 @@ career-profile:
 education:
     - degree: B.Tech in Information Technology
       university: Amity University, Noida, Uttar Pradesh, India
-      time: May/2008 - May/2012
+      time: May-2008 - May-2012
       details: |
         Programme specialization in Information Technology and obtained a CGPA of 7.59 with First Division.
-      Student Volunteer: Dec-2011 |
-          - Being a member of organizing team worked for the successful delivery of "International IT Summit" conducted on the theme of Information Storage, Security & Compliance for Business Excellence.
+      volunteer: | 
+        Dec-2011
+        Being a member of organizing team worked for the successful delivery of "International IT Summit" conducted on the theme of Information Storage, Security & Compliance for Business Excellence.
 experiences:
     - role: Specialist Development
       time: 2017 - 2019
@@ -191,6 +192,7 @@ awards:
       company: QA InfoTech Pvt Ltd
       details: |
         Recognized for remarkable efforts and outstanding contribution to the project for finding the high priority defects in the testing phase.
+        
 skills:
     title: Skills &amp; Proficiency
 
