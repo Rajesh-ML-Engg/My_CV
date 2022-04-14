@@ -7,18 +7,18 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: Rajesh Sharma
+    tagline: Specialist Developer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    citizenship:
+    email: raj.shr2609@gmail.com
+    phone: +91-9873263473
+    citizenship: Indian
     website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    xing: alandoe
-    github: sharu725
+    linkedin: https://www.linkedin.com/in/rajesh-ml-engg
+    xing: 
+    github: https://github.com/Rajesh-ML-Engg
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
