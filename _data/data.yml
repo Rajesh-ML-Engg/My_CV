@@ -4,7 +4,7 @@
 
 sidebar:
     about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: False # set to False if you want education in main section instead of in sidebar
+    education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
     name: Rajesh Sharma
@@ -61,15 +61,11 @@ career-profile:
 education:
     - degree: B.Tech in Information Technology
       university: Amity University, Noida, Uttar Pradesh, India
-      time: 2008 - 2012
+      time: 05/2008 - 05/2012
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        Programme specialization in Information Technology and obtained a CGPA of 7.59 with First Division.
+      Student Volunteer: 12/2011 |
+          - Being a member of organizing team worked for the successful delivery of "International IT Summit" conducted on the theme of Information Storage, Security & Compliance for Business Excellence.
 experiences:
     - role: Specialist Development
       time: 2017 - 2019
@@ -166,8 +162,34 @@ publications:
       - title: A syntax directed compiler for Algol 60
         link: "#"
         authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
-
+        conference: "Comm. ACM 4 (1961), 51–55"    
+awards:
+    - role: GEM Award
+      time: 01/2020
+      company: SunLife Financials India
+      details: |
+        Awarded with the prestigious GEM award for outstanding contribution in the project in quarter Oct-Dec 2019.
+    - role: Spot Award
+      time: 08/2018
+      company: Deloitte Consulting USI
+      details: |
+        Awarded for developing a successful proof-of-concept("PM BOT") using python with a specialization in ML & NLP,
+        also delivered its live demonstration in the "IT Analytics Summit 2017".
+    - role: Spot Award
+      time: 11/2017
+      company: Deloitte Consulting USI
+      details: |
+        Acknowledged for reducing the data hydration efforts by 50%, also decommissioned the legacy file processing system.
+    - role: The Director's Award
+      time: 12/2016
+      company: Fidelity Research India Pvt Ltd
+      details: |
+        Awarded for developing the complicated ETL logics while working on a DWBI project and delivered the project with zero UAT defects.
+    - role: Spot Award
+      time: 01/2013
+      company: QA InfoTech Pvt Ltd
+      details: |
+        Recognized for remarkable efforts and outstanding contribution to the project for finding the high priority defects in the testing phase.
 skills:
     title: Skills &amp; Proficiency
 
@@ -176,22 +198,22 @@ skills:
         level: 90%
 
       - name: SQL
-        level: 95%
+        level: 90%
 
       - name: Popular ML pkgs (Tensorflow-v2, Keras, Sklearn & others)
-        level: 85%
+        level: 82%
 
       - name: AWS Sagemaker & other services
-        level: 85%
+        level: 82%
         
       - name: PySpark
-        level: 85%
+        level: 82%
 
       - name: MLOps (Kubeflow & Docker)
         level: 70%
 
       - name: Agile methodologies (JIRA, BitBucket & Confluence)
-        level: 75%
+        level: 82%
 
 footer: >
     The content of this page is maintained by <i class="fas fa-heart"></i> by <a href="https://github.com/Rajesh-ML-Engg/My_CV" target="_blank" rel="nofollow"> Rajesh Sharma</a> & designed by Xiaoying Riley.
