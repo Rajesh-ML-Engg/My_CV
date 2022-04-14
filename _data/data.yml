@@ -18,14 +18,17 @@ sidebar:
     website: blog.webjeda.com #do not add http://
     linkedin: rajesh-ml-engg
     xing: 
-    github: https://github.com/Rajesh-ML-Engg
+    github: rajesh-ml-engg
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
+    medium: https://rajesh-ml-engg.medium.com/
+    docker:
+    kaggle:
     pdf: http://www.africau.edu/images/default/sample.pdf
 
     languages:
@@ -190,4 +193,4 @@ skills:
         level: 60%
 
 footer: >
-    The content of this page is maintained by <i class="fas fa-heart"></i> by <a href="https://github.com/Rajesh-ML-Engg/My_CV" target="_blank" rel="nofollow"> Rajesh Sharma & designed by Xiaoying Riley</a>
+    The content of this page is maintained by <i class="fas fa-heart"></i> by <a href="https://github.com/Rajesh-ML-Engg/My_CV" target="_blank" rel="nofollow"> Rajesh Sharma</a> & designed by Xiaoying Riley.
