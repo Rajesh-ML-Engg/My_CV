@@ -17,7 +17,7 @@ sidebar:
     citizenship: Indian
     linkedin: rajesh-ml-engg
     xing: 
-    github: rajesh-ml-engg
+    github: raj-shr-git
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
@@ -25,7 +25,7 @@ sidebar:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    website: rajesh-ml-engg.medium.com # do not add http://
+    website: raj-shr.medium.com # do not add http://
     kaggle:
     pdf:
 
@@ -39,7 +39,12 @@ sidebar:
       - idiom: French
         level: Beginner
 
-    interests:
+    professional interests:
+      - Enjoy understanding the legacy insurance & medical diagnosis systems and transforming them using ML techniques in order to develop more accurate & data oriented systems.
+      
+      - Work with any kind of practical data, however, particulary enjoy dealing with Text and Image data.
+
+    hobbies:
       - item: Playing Outdoor games
         link:
 
@@ -52,19 +57,17 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      8 years experienced software engineer with proven track record in building machine learning applications for insurance & healthcare domain problems. 
+      Possess expert knowledge of Python, Data Warehousing, ETL, AWS Cloud Services & Distributed Systems. Past experience involves leading developement team through all phases
+      of the software development cycle.
 education:
     - degree: Bachelor of Technology
       university: Amity University, Noida, Uttar Pradesh, India
       time: May/2008 - May/2012
       details: |
         Programme specialization in Information Technology and obtained a CGPA of 7.59 with First Division.
-          - Being a member of organizing team worked for the successful delivery of "International IT Summit" conducted on the theme of Information Storage, Security & Compliance for Business Excellence.
+          - Being a member of organizing team worked for the successful delivery of "International IT Summit" conducted on the theme of Information Storage, 
+          Security & Compliance for Business Excellence.
 experiences:
     - role: Specialist Development
       time: 2017 - 2019
