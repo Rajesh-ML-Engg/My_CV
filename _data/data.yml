@@ -55,7 +55,6 @@ sidebar:
 
       - item: Cooking
         link:
-
 career-profile:
     title: Career Profile
     summary: |
@@ -185,19 +184,19 @@ skills:
         level: 90%
 
       - name: Popular ML pkgs (Tensorflow-v2, Keras, Sklearn & others)
-        level: 82%
+        level: 85%
 
       - name: AWS Sagemaker & other services
-        level: 82%
+        level: 85%
         
       - name: PySpark
-        level: 82%
+        level: 75%
 
       - name: MLOps (Kubeflow & Docker)
         level: 70%
 
       - name: Agile methodologies (JIRA, BitBucket & Confluence)
-        level: 82%
+        level: 90%
 
 footer: >
     The content of this page is maintained by <i class="fas fa-heart"></i> by <a href="https://github.com/Rajesh-ML-Engg/My_CV" target="_blank" rel="nofollow"> Rajesh Sharma</a> & designed by Xiaoying Riley.
