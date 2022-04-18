@@ -74,50 +74,27 @@ experiences:
       time: 2017 - 2019
       company: SunLife Financials, Gurgaon
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
+        - Developed the ML Classifier for predicting the PII columns in the source tables after training the model on a data dictionary.
+        - Participated in the prediction modeling event to develop the ML classifier for predicting "Client Rollover" with a ROC score of 0.92.
+        - Playing the role of ETL Lead to build the Operational Data Store which can further be used as a one-point source for Data Analytics.
     - role: Consultant
       time: 2015 - 2017
       company: Deloitte USI, Gurgaon
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        - Worked in the project for predicting the mapping of a Financial Source database system with OFSAA(Oracle Financial Services Analytical Application) relational tables.
+        - Involved in the Data Lake project for the world's premier healthcare company using BigData(PySpark and HDFS) ecosystem.
     - role: Analyst Programmer
       time: 2013 - 2015
       company: Fidelity Investments & Research, Gurgaon
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        - Being a member of the "Global Fund Data Repository" team, I worked on ETL designing and development for Data Warehousing and Regulatory Reporting projects.
+        - Tuned the performance of the existing system used for data loading and exporting processes.
     - role: Software Tester
       time: 2012 - 2015
       company: QA InfoTech Pvt Ltd, Noida
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        - Played the role of "Testing Engineer" in multiple projects for efficiently delivering the end-to-end testing solutions. 
+        - Understood the business specifications and built the framework to ensure a defect-free promotion of code in the higher environments.
 projects:
     title: Projects
     intro: >
