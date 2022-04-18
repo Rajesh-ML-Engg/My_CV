@@ -79,13 +79,13 @@ experiences:
         - Playing the role of ETL Lead to build the Operational Data Store which can further be used as a one-point source for Data Analytics.
     - role: Consultant
       time: 2015 - 2017
-      company: Deloitte USI, Gurgaon
+      company: Deloitte Consulting USI, Gurgaon
       details: |
         - Worked in the project for predicting the mapping of a Financial Source database system with OFSAA(Oracle Financial Services Analytical Application) relational tables.
         - Involved in the Data Lake project for the world's premier healthcare company using BigData(PySpark and HDFS) ecosystem.
     - role: Analyst Programmer
       time: 2013 - 2015
-      company: Fidelity Investments & Research, Gurgaon
+      company: Fidelity Research India Pvt Ltd, Gurgaon
       details: |
         - Being a member of the "Global Fund Data Repository" team, I worked on ETL designing and development for Data Warehousing and Regulatory Reporting projects.
         - Tuned the performance of the existing system used for data loading and exporting processes.
@@ -117,12 +117,7 @@ projects:
       - title: Predict DonorChoose project approval using LSTMs
         link: "https://github.com/raj-shr-git/DonorChoose_approval_using_LSTMs"
         tagline: "The goal of this project is to predict whether or not a DonorsChoose.org project proposal submitted by a teacher will be approved, 
-        using the text of project descriptions as well as additional metadata about the project, teacher, and school."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-    
+        using the text of project descriptions as well as additional metadata about the project, teacher, and school."    
 awards:
     - role: GEM Award
       time: Jan/2020
