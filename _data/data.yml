@@ -39,11 +39,13 @@ sidebar:
       - idiom: French
         level: Beginner
 
-    professional interests:
-      - Enjoy understanding the legacy insurance & medical diagnosis systems and transforming them using ML techniques in order to develop more accurate & data oriented systems.
-      
-      - Work with any kind of practical data, however, particulary enjoy dealing with Text and Image data.
-
+    professional-interests:
+      - item: Enjoy understanding the legacy insurance & medical diagnosis systems and transforming them using ML techniques in order to develop more accurate & data oriented systems.
+        link:
+        
+      - item: Work with any kind of practical data, however, particulary enjoy dealing with Text and Image data.
+        link:
+        
     hobbies:
       - item: Playing Outdoor games
         link:
