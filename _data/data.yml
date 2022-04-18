@@ -98,25 +98,26 @@ experiences:
 projects:
     title: Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      Below are some of my open-source contributions:
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: Predict Underwriting score against Autistic cases
+        link: "https://github.com/raj-shr-git/UW_Score_prediction_against_ASD/blob/master/ASD_Prediction.ipynb"
+        tagline: "Developed the ML model for predicting the probabilistic underwriting score for health, disability and long term cure insurances against 
+        Autistic cases in children, adolescents, and adults."
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: Liver Ailment Data Analysis
+        link: "https://liver-health-analyzer.herokuapp.com/"
+        tagline: "Analyzed the Indian Liver Patients dataset with the intent to find the hidden patterns or external factors that can potentially lead to a Liver Ailment."
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      - title: Predict DonorChoose project approval using Text Vectorization
+        link: "https://github.com/raj-shr-git/DonorChoose_approval_using_vects"
+        tagline: "The goal of this project is to predict whether or not a DonorsChoose.org project proposal submitted by a teacher will be approved, 
+        using the text of project descriptions as well as additional metadata about the project, teacher, and school."
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+      - title: Predict DonorChoose project approval using LSTMs
+        link: "https://github.com/raj-shr-git/DonorChoose_approval_using_LSTMs"
+        tagline: "The goal of this project is to predict whether or not a DonorsChoose.org project proposal submitted by a teacher will be approved, 
+        using the text of project descriptions as well as additional metadata about the project, teacher, and school."
 
       - title: Delta
         link: "#"
