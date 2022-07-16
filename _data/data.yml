@@ -155,20 +155,23 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python-3 Prgramming
-        level: 90%
+      - name: Python-3
+        level: 85%
 
       - name: SQL
-        level: 90%
-
-      - name: Popular ML pkgs
-        level: 85%
-
-      - name: AWS Sagemaker & other services
         level: 85%
         
+      - name: C++
+        level: 60%
+
+      - name: Popular ML pkgs
+        level: 80%
+
+      - name: AWS Sagemaker & other services
+        level: 80%
+        
       - name: PySpark
-        level: 75%
+        level: 70%
 
       - name: Agile methodologies
         level: 90%
