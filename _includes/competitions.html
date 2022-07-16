@@ -1,0 +1,36 @@
+{% assign competitions = site.data.data.competitions %}
+{% if competitions %}
+<section class="section competitions-section">
+  <h2 class="section-title">
+    <span class="fa-stack fa-xs">
+      <i class="fas fa-circle fa-stack-2x"></i>
+      <i class="fas fa-briefcase fa-stack-1x fa-inverse"></i>
+    </span>
+    Competitions
+  </h2>
+
+  {% for competition in competitions %}
+  <div class="item">
+
+    <div class="meta">
+
+      <div class="upper-row">
+		<h2 class="job-title"><b>{{ competition.role }}</b></h2>
+		<div class="time">{{ competition.time }}</div>
+      </div><!--//upper-row-->
+		
+		<div class="company">{{ competition.company }}</div>
+
+    </div><!--//meta-->
+
+    {% if competition.details %}
+    <div class="details">
+      {{ competition.details | markdownify }}
+    </div><!--//details-->
+    {% endif %}
+
+  </div><!--//item-->
+  {% endfor %}
+
+</section><!--//section-->
+{% endif %}
