@@ -58,7 +58,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-        More than eight years of experience in software engineering with a proven track record in building data warehouses and machine learning applications in the healthcare & insurance domains. 
+        8.2 years of experience in software engineering with a proven track record in building data warehouses and machine learning applications in the healthcare & insurance domains. 
         Also, experienced in leading the development team through all phases of the software development cycle.
 education:
     - degree: Bachelor of Technology
@@ -66,8 +66,7 @@ education:
       time: May/2008 - May/2012
       details: |
         Program specialization in Information Technology and obtained a CGPA of 7.59 with First Division.
-          - Being a member of the organizing team worked for the successful delivery of the "International IT Summit" conducted on the theme of Information Storage, 
-          Security & Compliance for Business Excellence.
+          - Worked for organizing the successful delivery of the "International IT Summit - 2011" conducted on the theme of Information Storage, Security & Compliance for Business Excellence.
 experiences:
     - role: Specialist Development
       time: 2017 - 2019
@@ -80,21 +79,21 @@ experiences:
       time: 2015 - 2017
       company: Deloitte Consulting USI, Gurgaon
       details: |
-        - Developed the ML application that performs relational mapping of the OFSAA(Oracle Financial Services Analytical Applications) internal database with the various target systems without manual human effort.
+        - Developed the ML application that suggests the mapping of the OFSAA(Oracle Financial Services Analytical Applications) internal database with the different target systems without manual efforts.
         
         - Worked as an ETL lead for building the Data Warehouse of the world's premier healthcare company that facilitates raw decision-making information to the reporting and analytics team.
     - role: Analyst Programmer
       time: 2013 - 2015
       company: Fidelity Research India Pvt Ltd, Gurgaon
       details: |
-        - As a member of the "Global Funds Data Repository" team, I worked on a challenging Regulatory Reporting project and designed & developed the ETL pipelines for automating complex business rules and calculations.
+        - As a member of the "Global Funds Data Repository" team, I designed & developed the ETL pipelines for automating complex business rules and calculations for a challenging Regulatory Reporting.
         
         - Build a data loading and exporting system that replaced the Oracle-based legacy XML file processing system and reduces the daily processing cost by 87%.
     - role: Software Tester
       time: 2012 - 2015
       company: QA InfoTech Pvt Ltd, Noida
       details: |
-        - Involved in direct communication with the clients and business team to better understand the product requirements for designing the overall testing framework and various test suites.
+        - Directly communicated with the clients & business team to better understand the product requirements for designing the testing framework and various test suites.
         
         - Extensively performed the feature & integration testing and wrote numerous test procedures for assuring a bug-free system.
 projects:
@@ -104,7 +103,7 @@ projects:
     assignments:
       - title: Generate underwriting score for Autistic cases
         link: "https://github.com/raj-shr-git/UW_Score_prediction_against_ASD/blob/master/ASD_Prediction.ipynb"
-        tagline: "While working with SunLife Financials, I developed the ML application that calculates the risk in advance against autistic cases and facilitates the insurance underwriters for long-term cure insurances."
+        tagline: "While working with SunLife Financials, I developed the ML application that calculates the risk against autistic cases and facilitates the underwriters for long-term cure insurances."
 
       - title: Real-world Statistical Analysis
         link: "https://github.com/raj-shr-git/Statistical_testing_python"
@@ -119,23 +118,26 @@ awards:
       time: Jan/2020
       company: SunLife Financials India
       details: |
-        Awarded with the prestigious GEM award for outstanding contribution in the project in quarter Oct-Dec 2019.
+        Awarded with the prestigious GEM award for outstanding contribution in the quarter Oct-Dec 2019.
+    
     - role: Spot Award
       time: Aug/2018
       company: Deloitte Consulting USI
       details: |
-        Awarded for developing a successful proof-of-concept("PM BOT") using python with a specialization in ML & NLP,
-        also delivered its live demonstration in the "IT Analytics Summit 2017".
+        Recognized for automating the daily identical manual steps of BI Reporting team while processing the csv files by using the python scripting and reduced their development efforts by 40%. 
+    
     - role: Spot Award
       time: Nov/2017
       company: Deloitte Consulting USI
       details: |
-        Acknowledged for reducing the data hydration efforts by 50%, also decommissioned the legacy file processing system.
+        Acknowledged for reducing the development efforts(per developer by 12%) by creating an automated tool for generating the data ingestion files using python scripting.
+    
     - role: The Director's Award
       time: Dec/2016
       company: Fidelity Research India Pvt Ltd
       details: |
-        Awarded for developing the complicated ETL logics while working on a DWBI project and delivered the project with zero UAT defects.
+        Received the direct appreciation from the end-point regulatory users for automating the complicated business logics with zero UAT defects.
+    
     - role: Spot Award
       time: Jan/2013
       company: QA InfoTech Pvt Ltd
@@ -160,9 +162,6 @@ skills:
         
       - name: PySpark
         level: 75%
-
-      - name: MLOps (Kubeflow & Docker)
-        level: 70%
 
       - name: Agile methodologies (JIRA, BitBucket & Confluence)
         level: 90%
