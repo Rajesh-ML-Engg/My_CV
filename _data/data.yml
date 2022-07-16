@@ -74,24 +74,28 @@ experiences:
       company: SunLife Financials, Gurgaon
       details: |
         - Developed a ML application that works as a filtering & security system to restrict the flow of personally identifiable information(PII) from the source system to the downstream systems.
+        
         - Played the role of ETL Lead to build the Operational Data Store which can further be used as a one-point source for Data Analytics.
     - role: Consultant
       time: 2015 - 2017
       company: Deloitte Consulting USI, Gurgaon
       details: |
         - Developed the ML application that performs relational mapping of the OFSAA(Oracle Financial Services Analytical Applications) internal database with the various target systems without manual human effort.
+        
         - Worked as an ETL lead for building the Data Warehouse of the world's premier healthcare company that facilitates raw decision-making information to the reporting and analytics team.
     - role: Analyst Programmer
       time: 2013 - 2015
       company: Fidelity Research India Pvt Ltd, Gurgaon
       details: |
         - As a member of the "Global Funds Data Repository" team, I worked on a challenging Regulatory Reporting project and designed & developed the ETL pipelines for automating complex business rules and calculations.
+        
         - Build a data loading and exporting system that replaced the Oracle-based legacy XML file processing system and reduces the daily processing cost by 87%.
     - role: Software Tester
       time: 2012 - 2015
       company: QA InfoTech Pvt Ltd, Noida
       details: |
         - Involved in direct communication with the clients and business team to better understand the product requirements for designing the overall testing framework and various test suites.
+        
         - Extensively performed the feature & integration testing and wrote numerous test procedures for assuring a bug-free system.
 projects:
     title: Open Source Projects
