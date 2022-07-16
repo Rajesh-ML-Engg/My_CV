@@ -142,8 +142,15 @@ awards:
       time: Jan/2013
       company: QA InfoTech Pvt Ltd
       details: |
-        Recognized for remarkable efforts and outstanding contribution to the project for finding the high priority defects in the testing phase.
-        
+        Recognized for remarkable efforts and outstanding contribution to the project for finding the high priority defects in the testing phase.    
+
+competitions:
+    - role: Client Rollover Prediction
+      time: Oct/2019
+      company: SunLife Financials India
+      details: |
+        Participated in the prediction modeling event to develop the ML classifier for predicting "Client Rollover" with a ROC score of 0.92. Also, securing the place in top-7 submissions.
+
 skills:
     title: Skills &amp; Proficiency
 
@@ -154,7 +161,7 @@ skills:
       - name: SQL
         level: 90%
 
-      - name: Popular ML pkgs (Tensorflow-v2, Keras, Sklearn & others)
+      - name: Popular ML pkgs
         level: 85%
 
       - name: AWS Sagemaker & other services
@@ -163,7 +170,7 @@ skills:
       - name: PySpark
         level: 75%
 
-      - name: Agile methodologies (JIRA, BitBucket & Confluence)
+      - name: Agile methodologies
         level: 90%
 
 footer: >
