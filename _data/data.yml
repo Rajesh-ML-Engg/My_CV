@@ -85,37 +85,31 @@ experiences:
       time: 2013 - 2015
       company: Fidelity Research India Pvt Ltd, Gurgaon
       details: |
-        - Being a member of the "Global Fund Data Repository" team, I worked on ETL designing and development for Data Warehousing and Regulatory Reporting projects.
-        - Tuned the performance of the existing system used for data loading and exporting processes.
+        - As a member of the "Global Funds Data Repository" team, I worked on a challenging Regulatory Reporting project and designed & developed the ETL pipelines for automating complex business rules and calculations.
+        - Build a data loading and exporting system that replaced the Oracle-based legacy XML file processing system and reduces the daily processing cost by 87%.
     - role: Software Tester
       time: 2012 - 2015
       company: QA InfoTech Pvt Ltd, Noida
       details: |
-        - Played the role of "Testing Engineer" in multiple projects for efficiently delivering the end-to-end testing solutions. 
-        - Understood the business specifications and built the framework to ensure a defect-free promotion of code in the higher environments.
+        - Involved in direct communication with the clients and business team to better understand the product requirements for designing the overall testing framework and various test suites.
+        - Extensively performed the feature & integration testing and wrote numerous test procedures for assuring a bug-free system.
 projects:
-    title: Projects
+    title: Open Source Projects
     intro: >
       Below are some of my open-source contributions:
     assignments:
-      - title: Predict Underwriting score against Autistic cases
+      - title: Generate underwriting score for Autistic cases
         link: "https://github.com/raj-shr-git/UW_Score_prediction_against_ASD/blob/master/ASD_Prediction.ipynb"
-        tagline: "Developed the ML model for predicting the probabilistic underwriting score for health, disability and long term cure insurances against 
-        Autistic cases in children, adolescents, and adults."
+        tagline: "While working with SunLife Financials, I developed the ML application that calculates the risk in advance against autistic cases and facilitates the insurance underwriters for long-term cure insurances."
 
+      - title: Real-world Statistical Analysis
+        link: "https://github.com/raj-shr-git/Statistical_testing_python"
+        tagline: "This is the self-initiated project where I have explained various statistical tests(how they work and where to use them) and showcased how to perform them manually on paper, excel, or via python."
+      
       - title: Liver Ailment Data Analysis
         link: "https://liver-health-analyzer.herokuapp.com/"
         tagline: "Analyzed the Indian Liver Patients dataset with the intent to find the hidden patterns or external factors that can potentially lead to a Liver Ailment."
-
-      - title: Predict DonorChoose project approval using Text Vectorization
-        link: "https://github.com/raj-shr-git/DonorChoose_approval_using_vects"
-        tagline: "The goal of this project is to predict whether or not a DonorsChoose.org project proposal submitted by a teacher will be approved, 
-        using the text of project descriptions as well as additional metadata about the project, teacher, and school."
-
-      - title: Predict DonorChoose project approval using LSTMs
-        link: "https://github.com/raj-shr-git/DonorChoose_approval_using_LSTMs"
-        tagline: "The goal of this project is to predict whether or not a DonorsChoose.org project proposal submitted by a teacher will be approved, 
-        using the text of project descriptions as well as additional metadata about the project, teacher, and school."    
+   
 awards:
     - role: GEM Award
       time: Jan/2020
