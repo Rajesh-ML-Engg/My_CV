@@ -40,10 +40,10 @@ sidebar:
         level: Beginner
 
     professional-interests:
-      - item: Enjoy transforming legacy insurance & medical diagnosis systems to be more accurate & data oriented systems using ML techniques.
+      - item: Enjoy transforming legacy insurance & medical diagnosis systems to be more accurate & data-oriented systems using ML techniques.
         link:
         
-      - item: Work with any kind of practical data, however, particulary enjoy dealing with Text and Image data.
+      - item: Enjoy working with any form of a dataset, however, dealing with Images more fascinates me.
         link:
         
     hobbies:
@@ -58,31 +58,29 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      8 years experienced software engineer with proven track record in building machine learning applications for insurance & healthcare domain problems. 
-      Possess expert knowledge of Python, Data Warehousing, ETL, AWS Cloud Services & Distributed Systems. Past experience involves leading developement team through all phases
-      of the software development cycle.
+    More than eight years of experience in software engineering with a proven track record in building data warehouses and machine learning applications in the healthcare & insurance domains. 
+    Also, experienced in leading the development team through all phases of the software development cycle.
 education:
     - degree: Bachelor of Technology
       university: Amity University, Noida, Uttar Pradesh, India
       time: May/2008 - May/2012
       details: |
-        Programme specialization in Information Technology and obtained a CGPA of 7.59 with First Division.
-          - Being a member of organizing team worked for the successful delivery of "International IT Summit" conducted on the theme of Information Storage, 
+        Program specialization in Information Technology and obtained a CGPA of 7.59 with First Division.
+          - Being a member of the organizing team worked for the successful delivery of the "International IT Summit" conducted on the theme of Information Storage, 
           Security & Compliance for Business Excellence.
 experiences:
     - role: Specialist Development
       time: 2017 - 2019
       company: SunLife Financials, Gurgaon
       details: |
-        - Developed the ML Classifier for predicting the PII columns in the source tables after training the model on a data dictionary.
-        - Participated in the prediction modeling event to develop the ML classifier for predicting "Client Rollover" with a ROC score of 0.92.
-        - Playing the role of ETL Lead to build the Operational Data Store which can further be used as a one-point source for Data Analytics.
+        - Developed a ML application that works as a filtering & security system to restrict the flow of personally identifiable information(PII) from the source system to the downstream systems.
+        - Played the role of ETL Lead to build the Operational Data Store which can further be used as a one-point source for Data Analytics.
     - role: Consultant
       time: 2015 - 2017
       company: Deloitte Consulting USI, Gurgaon
       details: |
-        - Worked in the project for predicting the mapping of a Financial Source database system with OFSAA(Oracle Financial Services Analytical Application) relational tables.
-        - Involved in the Data Lake project for the world's premier healthcare company using BigData(PySpark and HDFS) ecosystem.
+        - Developed the ML application that performs relational mapping of the OFSAA(Oracle Financial Services Analytical Applications) internal database with the various target systems without manual human effort.
+        - Worked as an ETL lead for building the Data Warehouse of the world's premier healthcare company that facilitates raw decision-making information to the reporting and analytics team.
     - role: Analyst Programmer
       time: 2013 - 2015
       company: Fidelity Research India Pvt Ltd, Gurgaon
