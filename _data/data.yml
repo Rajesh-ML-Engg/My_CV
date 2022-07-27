@@ -101,10 +101,14 @@ projects:
     intro: >
       Below are some of my open-source contributions:
     assignments:
-      - title: Generate underwriting score for Autistic cases
-        link: "https://github.com/raj-shr-git/UW_Score_prediction_against_ASD/blob/master/ASD_Prediction.ipynb"
+      - title: Generate underwriting score for better risk assessment against Autistic cases
+        link: "https://docs.google.com/presentation/d/1BeyNAn1pcXLzjm1mLy96SUUQPos1xvrX/edit?usp=sharing&ouid=106465779058021180381&rtpof=true&sd=true"
         tagline: "While working with SunLife Financials, I developed a POC that calculates the risk against autistic cases and facilitates the underwriters for better assessing of long-term cure insurances."
-
+      
+      - title: Data Analysis of Indian Liver Patients
+        link: "https://liver-health-analyzer.herokuapp.com/"
+        tagline: "Analyzed the Indian Liver Patients dataset with the intent to find the hidden patterns or external factors that can potentially lead to a Liver Ailment."
+        
       - title: Real-world Statistical Analysis
         link: "https://github.com/raj-shr-git/Statistical_testing_python"
         tagline: "A self-initiated project where I have explained various statistical tests(how they work and where to use them) and showcased how to perform them manually on paper, excel, or via python."
