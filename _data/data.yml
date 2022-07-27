@@ -101,9 +101,9 @@ projects:
     intro: >
       Below are some of my open-source contributions:
     assignments:
-      - title: Generate underwriting score for better risk assessment against Autistic cases
+      - title: Generate underwriting score for better risk assessment of Autistic cases
         link: "https://docs.google.com/presentation/d/1BeyNAn1pcXLzjm1mLy96SUUQPos1xvrX/edit?usp=sharing&ouid=106465779058021180381&rtpof=true&sd=true"
-        tagline: "While working with SunLife Financials, I developed a POC that calculates the risk against autistic cases and facilitates the underwriters for better assessing of long-term cure insurances."
+        tagline: "While working with SunLife Financials, I developed a POC that facilitates underwriters for better risk assessment of long-term cure insurances for autistic cases."
       
       - title: Data Analysis of Indian Liver Patients
         link: "https://liver-health-analyzer.herokuapp.com/"
