@@ -14,7 +14,7 @@ sidebar:
     # Sidebar links
     email: raj.shr2609@gmail.com
     phone: +91-9873263473
-    citizenship: Indian
+    citizenship: Delhi, India
     linkedin: raj-shr
     xing: 
     github: raj-shr-git
@@ -103,11 +103,11 @@ projects:
     assignments:
       - title: Generate underwriting score for better risk assessment of Autistic cases
         link: "https://docs.google.com/presentation/d/1BeyNAn1pcXLzjm1mLy96SUUQPos1xvrX/edit?usp=sharing&ouid=106465779058021180381&rtpof=true&sd=true"
-        tagline: "While working with SunLife Financials, I developed a POC that facilitates underwriters for better risk assessment of long-term cure insurances for autistic cases."
+        tagline: "While working with SunLife Financials, I developed a POC to showcase how data oriented ML appications can facilitate the underwriters for better risk assessment of long-term cure insurances for autistic cases."
       
       - title: Data Analysis of Indian Liver Patients
-        link: "https://liver-health-analyzer.herokuapp.com/"
-        tagline: "Analyzed the Indian Liver Patients dataset with the intent to find the hidden patterns or external factors that can potentially lead to a Liver Ailment."
+        link: "https://github.com/raj-shr-git/Liver_Disease_Data_Analysis/"
+        tagline: "Analyzed the Indian Liver Patients dataset with the intent to find the hidden patterns or external factors that can potentially lead to a Liver Ailment among males and females of different age groups."
         
       - title: Real-world Statistical Analysis
         link: "https://github.com/raj-shr-git/Statistical_testing_python"
