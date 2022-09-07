@@ -69,28 +69,28 @@ education:
           - Worked for organizing the successful delivery of the "International IT Summit - 2011" conducted on the theme of Information Storage, Security & Compliance for Business Excellence.
 experiences:
     - role: Specialist Development
-      time: 2017 - 2019
+      time: April 2019 - June 2020
       company: SunLife Financials, Gurgaon
       details: |
         - Developed a ML application that works as a filtering & security system to restrict the flow of personally identifiable information(PII) from the source system to the downstream systems.
         
         - Played the role of ETL Lead to build the Operational Data Store which can further be used as a one-point source for Data Analytics.
     - role: Consultant
-      time: 2015 - 2017
+      time: April 2017 - April 2019
       company: Deloitte Consulting USI, Gurgaon
       details: |
         - Developed the ML application that suggests the mapping of the OFSAA(Oracle Financial Services Analytical Applications) internal database with the different target systems without manual efforts.
         
         - Worked as an ETL lead for building the Data Warehouse of the world's premier healthcare company that facilitates raw decision-making information to the reporting and analytics team.
     - role: Analyst Programmer
-      time: 2013 - 2015
+      time: June 2015 - April 2017
       company: Fidelity Research India Pvt Ltd, Gurgaon
       details: |
         - As a member of the "Global Funds Data Repository" team, I designed & developed the ETL pipelines for automating complex business rules and calculations for a challenging Regulatory Reporting.
         
         - Build a data loading and exporting system that replaced the Oracle-based legacy XML file processing system and reduces the daily processing cost by 87%.
     - role: Software Tester
-      time: 2012 - 2015
+      time: May 2012 - Jan 2015
       company: QA InfoTech Pvt Ltd, Noida
       details: |
         - Directly communicated with the clients & business team to better understand the product requirements for designing the testing framework and various test suites.
