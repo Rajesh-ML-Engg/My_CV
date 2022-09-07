@@ -72,11 +72,11 @@ projects:
     intro: >
       Below are some of my open-source contributions:
     assignments:
-      - title: Medicare 'Provider' Fraud Detection
+      - title: Medicare "Provider" Fraud Detection
         link: "https://medicare-prv-fraud-detection.herokuapp.com/"
         tagline: "Provider Fraud is one of the biggest problems facing Medicare. According to the government, the total Medicare spending increased exponentially due to medicare frauds. The goal of this project is to "predict the potentially fraudulent providers based on the claims filed by them."
       
-      - title: Generate 'Underwriting Score' for risk assessment of Autistic cases
+      - title: Generate "Underwriting Score" for risk assessment of Autistic cases
         link: "https://docs.google.com/presentation/d/1BeyNAn1pcXLzjm1mLy96SUUQPos1xvrX/edit?usp=sharing&ouid=106465779058021180381&rtpof=true&sd=true"
         tagline: "While working with SunLife Financials, I developed a POC to showcase how data oriented ML appications can facilitate the underwriters for better risk assessment of long-term cure insurances for autistic cases."
       
