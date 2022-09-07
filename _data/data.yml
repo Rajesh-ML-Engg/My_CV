@@ -58,7 +58,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-        8.2 years of experience in software engineering with a proven track record in building data warehouses and machine learning applications in the healthcare & insurance domains. 
+        8.1 years of experience in software engineering with a proven track record in building data warehouses and machine learning applications in the healthcare & insurance domains. 
         Also, experienced in leading the development team through all phases of the software development cycle.
 education:
     - degree: Bachelor of Technology
@@ -89,6 +89,13 @@ experiences:
         - As a member of the "Global Funds Data Repository" team, I designed & developed the ETL pipelines for automating complex business rules and calculations for a challenging Regulatory Reporting.
         
         - Build a data loading and exporting system that replaced the Oracle-based legacy XML file processing system and reduces the daily processing cost by 87%.
+    - role: Infosys Limited
+      time: Feb 2015 - June 2015
+      company: Infosys Limited, Chandigarh
+      details: |
+        - Worked for a healthcare client to design the ETL processes and loaded data from various relational databases to create XML file using Informatica Power Center.
+        
+        - Modified the job scheduling graph to cater the requirements of reading the .rpt and acknowledgement files received after delivering the xml extract.
     - role: Software Tester
       time: May 2012 - Jan 2015
       company: QA InfoTech Pvt Ltd, Noida
