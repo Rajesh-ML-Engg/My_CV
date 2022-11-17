@@ -76,7 +76,7 @@ projects:
     
     - title: Apple 'Foliar' Disease Detection
       link: "https://apple-foliar-disease-detection.herokuapp.com/"
-      tagline: "Major crops today are plagued by a variety of diseases. Diseases in crops are difficult to detect and diagnose diseases because leaves have a variety of sizes, shapes, and colors. This project has leveraged computer-vision-based techniques and built a model that can accurately classify a given image into a diseased category or a healthy leaf."
+      tagline: "Major crops today are plagued by a variety of diseases. It is challenging to detect & diagnose diseases in crops because leaves have a variety of sizes, shapes, & colors. This project has leveraged computer-vision techniques to build a model that can precisely classify a leaf image into infected categories or healthy."
     
     - title: Generate Underwriting Score for risk assessment of Autistic cases
       link: "https://docs.google.com/presentation/d/1BeyNAn1pcXLzjm1mLy96SUUQPos1xvrX/edit?usp=sharing&ouid=106465779058021180381&rtpof=true&sd=true"
