@@ -70,21 +70,25 @@ education:
 projects:
     title: Machine Learning Projects
     assignments:
-    - title: Medicare Provider Fraud Detection
+    - title: Medicare 'Provider' Fraud Detection
       link: "https://medicare-prv-fraud-detection.herokuapp.com/"
       tagline: "Provider Fraud is one of the biggest problems facing medicare. The total medicare spending increased exponentially due to medicare frauds and the goal of this project is to predict the potentially fraudulent providers based on the claims filed by them."
+    
+    - title: Apple 'Foliar' Disease Detection
+      link: "https://apple-foliar-disease-detection.herokuapp.com/"
+      tagline: "Major crops today are plagued by a variety of diseases. Diseases in crops are difficult to detect and diagnose diseases because leaves have a variety of sizes, shapes, and colors. This project has leveraged computer-vision-based techniques and built a model that can accurately classify a given image into a diseased category or a healthy leaf."
     
     - title: Generate Underwriting Score for risk assessment of Autistic cases
       link: "https://docs.google.com/presentation/d/1BeyNAn1pcXLzjm1mLy96SUUQPos1xvrX/edit?usp=sharing&ouid=106465779058021180381&rtpof=true&sd=true"
       tagline: "While working with SunLife Financials, I developed a POC to showcase how data oriented ML appications can facilitate the Insurance Underwriters for better risk assessment of long-term cure insurances (like autistic cases)."
-      
-    - title: Data Analysis of Indian Liver Patients
-      link: "https://github.com/raj-shr-git/Liver_Disease_Data_Analysis/"
-      tagline: "Analyzed the Indian Liver Patients dataset with the intent to find the hidden patterns or external factors that can potentially lead to a Liver Ailment among males and females of different age groups."
-        
+              
     - title: Real-world Statistical Analysis
       link: "https://github.com/raj-shr-git/Statistical_testing_python"
       tagline: "A self-initiated project where I have explained various statistical tests(how they work and where to use them) and showcased how to perform them manually on paper, excel, or via python."
+
+    - title: Extensive Analysis of Indian Liver Patients Data
+      link: "https://github.com/raj-shr-git/Liver_Disease_Data_Analysis/"
+      tagline: "Analyzed the Indian Liver Patients dataset with the intent to find the hidden patterns or external factors that can potentially lead to a Liver Ailment among males and females of different age groups."
 experiences:
     - role: Specialist Development
       time: April 2019 - June 2020
