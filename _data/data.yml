@@ -26,7 +26,7 @@ sidebar:
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
     website: raj-shr.medium.com # do not add http://
-    kaggle:
+    kaggle: rajesh2609
     pdf:
 
     languages:
@@ -87,7 +87,7 @@ projects:
       tagline: "A self-initiated project where I have explained various statistical tests(how they work and where to use them) and showcased how to perform them manually on paper, excel, or via python."
 
     - title: Extensive Analysis of Indian Liver Patients Data
-      link: "https://github.com/raj-shr-git/Liver_Disease_Data_Analysis/"
+      link: "https://www.kaggle.com/code/rajesh2609/liver-disease-analysis-detection"
       tagline: "Analyzed the Indian Liver Patients dataset with the intent to find the hidden patterns or external factors that can potentially lead to a Liver Ailment among males and females of different age groups."
 experiences:
     - role: Specialist Development
