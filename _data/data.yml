@@ -58,8 +58,9 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-        8.1 years of experience in software engineering with a proven track record in building data warehouses and machine learning applications in the healthcare & insurance domains. 
-        Also, experienced in leading the development team through all phases of the software development cycle.
+        8.2 years experience professional with a proven track record in building data warehouses and machine learning applications for insurance & healthcare domains.
+        Also, proficient in leading the development team through all phases of the software development cycle. 
+        Aiming to leverage my abilities to successfully fill the Data Science & ML role at a data-driven organization.
 education:
     - degree: Bachelor of Technology
       university: Amity University, Noida, Uttar Pradesh, India
@@ -117,7 +118,7 @@ experiences:
       details: |
         - Worked for a healthcare client to design the ETL processes and loaded data from various relational databases to create XML file using Informatica Power Center.
         
-        - Modified the job scheduling graph to cater the requirements of reading the .rpt and acknowledgement files received after delivering the XML extract.
+        - Modified the job scheduling graph to cater to the requirements of reading the .rpt and acknowledgement files received after delivering the XML extract.
     - role: Software Tester
       time: May 2012 - Jan 2015
       company: QA InfoTech Pvt Ltd, Noida
@@ -172,15 +173,27 @@ skills:
 
       - name: SQL
         level: 85%
+
+      - name: Data Analysis
+        level: 90%
+
+      - name: Data Engineering, ETL & DWBI
+        level: 90%
         
-      - name: C++
-        level: 60%
+      - name: Machine Learning
+        level: 80%
+        
+      - name: Deep Learning
+        level: 80%
 
       - name: Popular ML pkgs
         level: 80%
 
-      - name: AWS Sagemaker & other services
+      - name: Cloud ML Services
         level: 80%
+        
+      - name: C++
+        level: 60%
         
       - name: PySpark
         level: 70%
