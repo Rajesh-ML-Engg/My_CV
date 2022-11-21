@@ -131,7 +131,7 @@ awards:
       time: Jan/2020
       company: SunLife Financials India
       details: |
-        Awarded with the prestigious GEM award for outstanding contribution in the quarter Oct-Dec 2019.
+        Awarded with the prestigious GEM award for outstanding contribution to the project in the quarter Oct-Dec 2019.
     
     - role: Spot Award
       time: Aug/2018
@@ -143,13 +143,13 @@ awards:
       time: Nov/2017
       company: Deloitte Consulting USI
       details: |
-        Acknowledged for reducing the development efforts(per developer by 12%) by creating an automated tool for generating the data ingestion files using python scripting.
+        Acknowledged for reducing the development efforts (per developer by 12%) by creating an automated tool for generating the data ingestion files using python scripting.
     
     - role: The Director's Award
       time: Dec/2016
       company: Fidelity Research India Pvt Ltd
       details: |
-        Received direct appreciation from the end-point regulatory users for automating the complicated business logic with zero UAT defects.
+        Recognized for remarkable efforts and outstanding contribution to the project for finding high-priority defects in the testing phase.
     
     - role: Spot Award
       time: Jan/2013
@@ -162,7 +162,7 @@ competitions:
       time: Sep/2019
       company: SunLife Financials India
       details: |
-        Participated in the prediction modeling event to solve the problem of "Client Rollover" using ML techniques and secured a place in the top-7 submissions.
+        Participated in the prediction modeling event to solve the problem of “Client Rollover” using ML techniques and secured a place in the top 8 submissions.
 
 skills:
     title: Skills &amp; Proficiency
