@@ -111,7 +111,7 @@ experiences:
       details: |
         - As a member of the "Global Funds Data Repository" team, I designed & developed the ETL pipelines for automating complex business rules and calculations for a challenging Regulatory Reporting.
         
-        - Build a data loading and exporting system that replaced the Oracle-based legacy XML file processing system and reduces the daily processing cost by 87%.
+        - Build a data loading and exporting system that replaced the Oracle-based legacy XML file processing system and reduces the daily processing cost by 60%.
     - role: Systems Engineer
       time: Feb 2015 - June 2015
       company: Infosys Limited, Chandigarh
@@ -137,7 +137,7 @@ awards:
       time: Aug/2018
       company: Deloitte Consulting USI
       details: |
-        Recognized for automating the daily manual processing of CSV files by the BI Reporting Team using python scripting and reduced development efforts by 40%.
+        Recognized for automating the daily manual processing of CSV files by the BI Reporting Team using python scripting and reduced development efforts by 20%.
     
     - role: Spot Award
       time: Nov/2017
