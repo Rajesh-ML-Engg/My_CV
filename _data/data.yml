@@ -91,7 +91,7 @@ projects:
       link: "https://www.kaggle.com/code/rajesh2609/liver-disease-analysis-detection"
       tagline: "Analyzed the Indian Liver Patients dataset with the intent to find the hidden patterns or external factors that can potentially lead to a Liver Ailment among males and females of different age groups."
 experiences:
-    - role: Specialist Development
+    - role: Specialist Developer
       time: April 2019 - June 2020
       company: SunLife Financials, Gurgaon
       details: |
