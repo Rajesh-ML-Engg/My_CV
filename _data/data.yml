@@ -72,11 +72,11 @@ projects:
     title: Machine Learning Projects
     assignments:
     - title: Medicare 'Provider' Fraud Detection
-      link: "https://medicare-prv-fraud-detection.herokuapp.com/"
+      link: "https://medium.datadriveninvestor.com/medicare-provider-fraud-detection-f551dd941947"
       tagline: "Provider Fraud is one of the biggest problems facing medicare. The total medicare spending increased exponentially due to medicare frauds and the goal of this project is to predict the potentially fraudulent providers based on the claims filed by them."
     
     - title: Apple 'Foliar' Disease Detection
-      link: "https://apple-foliar-disease-detection.herokuapp.com/"
+      link: "https://medium.com/@raj-shr/apple-foliar-disease-detection-analysis-aba3abae9b79"
       tagline: "Major crops today are plagued by a variety of diseases. It is challenging to detect & diagnose diseases in crops because leaves have a variety of sizes, shapes, & colors. This project has leveraged computer-vision techniques to build a model that can precisely classify a leaf image into infected categories or healthy."
     
     - title: Generate Underwriting Score for risk assessment of Autistic cases
